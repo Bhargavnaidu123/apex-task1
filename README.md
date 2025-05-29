@@ -1,4 +1,5 @@
 🏏 Indian Cricket Legends
+
 A simple and stylish web application that celebrates legendary Indian cricketers. Built using HTML, CSS, and JavaScript, this app provides brief information about iconic players with interactive elements.
 
 🚀 Features
